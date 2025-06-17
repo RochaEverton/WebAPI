@@ -39,7 +39,7 @@ npm install
 npm run dev
 
 # Ou para rodar normalmente
-node index.js
+node start
 
 A API estará disponível em: http://localhost:3000 (ou porta definida no .env)
 📌 Funcionalidades
@@ -54,9 +54,9 @@ A API estará disponível em: http://localhost:3000 (ou porta definida no .env)
 
     DELETE /user/:id → Remove um usuário
 
-    Obs: As rotas podem variar conforme o progresso do projeto.
+    
 
-📁 Estrutura do Projeto (exemplo)
+📁 Estrutura do Projeto:
 
 ├── index.js
 ├── routes/
