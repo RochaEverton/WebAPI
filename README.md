@@ -46,13 +46,13 @@ A API estará disponível em: http://localhost:3000 (ou porta definida no .env)
 
     GET /users → Lista todos os usuários
 
-    GET /items/:id → Retorna um usuário específico
+    GET /user/:id → Retorna um usuário específico
 
-    POST /items → Cria um novo usuário
+    POST /user → Cria um novo usuário
 
-    PUT /items/:id → Atualiza um usuário existente
+    PUT /user/:id → Atualiza um usuário existente
 
-    DELETE /items/:id → Remove um usuário
+    DELETE /user/:id → Remove um usuário
 
     Obs: As rotas podem variar conforme o progresso do projeto.
 
